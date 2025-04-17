@@ -4,3 +4,7 @@ I have developed a comprehensive project in Excel creating dashboard to analyze 
 
 ## Dataset Used
 - <a href = "https://github.com/NITHINKUMARTK/Blinkit-Sales-Data-Analysis-Dashboard-using-Excel/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"> Blinkit Data </a>
+
+## Dashboard Preview
+
+-<a href = > blinkit dashboard preview </a>
