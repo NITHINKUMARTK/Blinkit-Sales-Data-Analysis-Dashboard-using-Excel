@@ -25,3 +25,9 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## Dashboard Preview
 
 - <a href ="https://github.com/NITHINKUMARTK/Blinkit-Sales-Data-Analysis-Dashboard-using-Excel/blob/main/Blinkit%20Dashboard%20Pic.png" > blinkit dashboard preview </a>
+
+## Link to dashboard
+
+- <a href = "https://github.com/NITHINKUMARTK/Blinkit-Sales-Data-Analysis-Dashboard-using-Excel/blob/main/blinkit%20dashboard.xlsx"> dashboard </a>
+
+
